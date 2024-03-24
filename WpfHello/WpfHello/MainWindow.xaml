@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfHello.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfHello"
+        mc:Ignorable="d"
+        Title="NewMainWindow" Height="350" Width="500" MinHeight="350" MinWidth="300" Closing="Window_Closing">
+    <Grid>
+        <Menu HorizontalAlignment="Left" VerticalAlignment="Top">
+            <MenuItem Header="File">
+                <MenuItem Header="Exit" Click="MenuItem_Click"/>
+            </MenuItem>
+        </Menu>
+        <Label x:Name="lbl" HorizontalAlignment="Center"
+VerticalAlignment="Top">Пуск</Label>
+        <Button x:Name="setBut" Content="Set Name" HorizontalAlignment="Left" Margin="158,129,0,0" VerticalAlignment="Top" Click="setBut_Click" />
+        <Button x:Name="retBut" Content="Ret Name" HorizontalAlignment="Left" Margin="158,208,0,0" VerticalAlignment="Top" Click="retBut_Click"/>
+        <TextBox x:Name="setText" HorizontalAlignment="Left" Margin="287,121,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="setText_TextChanged"/>
+        <Label x:Name="retLabel" Content="" HorizontalAlignment="Left" Margin="287,200,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="New_Win" Content="New Win" HorizontalAlignment="Left" Margin="199,257,0,0" VerticalAlignment="Top" Click="New_Win_Click"/>
+        <TextBlock x:Name="txtBlock" HorizontalAlignment="Left" Margin="292,257,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="50" Width="75"/>
+    </Grid>
+    
+</Window>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHelloNav", "WpfHelloNav\WpfHelloNav.csproj", "{D7EABD71-228B-4FBD-94DF-2E318E0128D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7EABD71-228B-4FBD-94DF-2E318E0128D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EABD71-228B-4FBD-94DF-2E318E0128D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EABD71-228B-4FBD-94DF-2E318E0128D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EABD71-228B-4FBD-94DF-2E318E0128D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8E5E36D-101A-470D-AE1A-3137CC2B76A3}
+	EndGlobalSection
+EndGlobal

@@ -6,20 +6,56 @@
         xmlns:local="clr-namespace:WpfHello"
         mc:Ignorable="d"
         Title="NewMainWindow" Height="350" Width="500" MinHeight="350" MinWidth="300" Closing="Window_Closing">
-    <Grid>
-        <Menu HorizontalAlignment="Left" VerticalAlignment="Top">
+    <DockPanel>
+
+        <Menu HorizontalAlignment="Left" DockPanel.Dock="Top">
             <MenuItem Header="File">
                 <MenuItem Header="Exit" Click="MenuItem_Click"/>
             </MenuItem>
         </Menu>
-        <Label x:Name="lbl" HorizontalAlignment="Center"
-VerticalAlignment="Top">Пуск</Label>
-        <Button x:Name="setBut" Content="Set Name" HorizontalAlignment="Left" Margin="158,129,0,0" VerticalAlignment="Top" Click="setBut_Click" />
-        <Button x:Name="retBut" Content="Ret Name" HorizontalAlignment="Left" Margin="158,208,0,0" VerticalAlignment="Top" Click="retBut_Click"/>
-        <TextBox x:Name="setText" HorizontalAlignment="Left" Margin="287,121,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="setText_TextChanged"/>
-        <Label x:Name="retLabel" Content="" HorizontalAlignment="Left" Margin="287,200,0,0" VerticalAlignment="Top"/>
-        <Button x:Name="New_Win" Content="New Win" HorizontalAlignment="Left" Margin="199,257,0,0" VerticalAlignment="Top" Click="New_Win_Click"/>
-        <TextBlock x:Name="txtBlock" HorizontalAlignment="Left" Margin="292,257,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="50" Width="75"/>
-    </Grid>
-    
+        <Label HorizontalAlignment="Center" x:Name="lbl" DockPanel.Dock="Top">
+            Пуск
+        </Label>
+        <StatusBar x:Name="stb" DockPanel.Dock="Bottom">
+            <StatusBarItem x:Name="stb1">
+                <TextBlock>Статусная панель</TextBlock>
+            </StatusBarItem >
+            <Separator/>
+            <StatusBarItem x:Name="stb2">
+                <TextBlock>Online</TextBlock>
+            </StatusBarItem>
+            <StatusBarItem x:Name="stb3">
+                <TextBlock></TextBlock>
+            </StatusBarItem>
+        </StatusBar>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Button x:Name="setBut" Grid.Column="0" Grid.Row="0" Content="Set Name "
+HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top" Width="75"
+Click="setBut_Click"/>
+            <Button x:Name ="retBut" Grid.Column="0" Grid.Row="1" Content="Ret Name "
+HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top" Width="75"
+Click="retBut_Click"/>
+            <TextBox x:Name="setText" Grid.Column="1" Grid.Row="0"
+HorizontalAlignment="Stretch" VerticalAlignment="Top" Height="23" Width="120" Margin="10,15"
+TextChanged="setText_TextChanged"/>
+            <Label x:Name="retLabel" Grid.Column="1" Grid.Row="1" Content="Label"
+HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top"/>
+            <Button x:Name="New_Win" Grid.Column="0" Grid.Row="2" Content="New Win"
+HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top" Width="75"
+Click="New_Win_Click"/>
+            <TextBlock x:Name="txtBlock" Grid.Column="1" Grid.Row="2" Margin="10,15,10,15"/>
+        </Grid>
+    </DockPanel>
+
 </Window>

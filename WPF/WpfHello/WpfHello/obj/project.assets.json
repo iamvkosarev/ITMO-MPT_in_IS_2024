@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WpfHello\\WpfHello\\WpfHello.csproj",
+      "projectUniqueName": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\WpfHello.csproj",
       "projectName": "WpfHello",
-      "projectPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WpfHello\\WpfHello\\WpfHello.csproj",
+      "projectPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\WpfHello.csproj",
       "packagesPath": "C:\\Users\\iamvk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WpfHello\\WpfHello\\obj\\",
+      "outputPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -29,7 +29,7 @@
             </StatusBarItem>
         </StatusBar>
 
-        <Grid>
+        <Grid ButtonBase.Click="Grid_Click">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="150"/>
                 <ColumnDefinition Width="*" />
@@ -41,11 +41,9 @@
             </Grid.RowDefinitions>
 
             <Button x:Name="setBut" Grid.Column="0" Grid.Row="0" Content="Set Name "
-HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top" Width="75"
-Click="setBut_Click"/>
+HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top" Width="75"/>
             <Button x:Name ="retBut" Grid.Column="0" Grid.Row="1" Content="Ret Name "
-HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top" Width="75"
-Click="retBut_Click"/>
+HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top" Width="75"/>
             <TextBox x:Name="setText" Grid.Column="1" Grid.Row="0"
 HorizontalAlignment="Stretch" VerticalAlignment="Top" Height="23" Width="120" Margin="10,15"
 TextChanged="setText_TextChanged"/>

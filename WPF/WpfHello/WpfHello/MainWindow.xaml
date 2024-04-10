@@ -5,7 +5,29 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:Local="clr-namespace:WpfHello"
         mc:Ignorable="d"
-        Title="NewMainWindow" Height="350" Width="500" MinHeight="350" MinWidth="300" Closing="Window_Closing">
+        Title="NewMainWindow" Height="350" Width="500" MinHeight="350" MinWidth="300" Background="{StaticResource gradientStyle}" Closing="Window_Closing">
+    <Window.Resources>
+        <SolidColorBrush x:Key="MyBrush" Color="Gold"/>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="Blue"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Foreground" Value="{StaticResource MyBrush}"/>
+            <Setter Property="FontFamily" Value="Trebuchet MS"/>
+            <Setter Property="Margin" Value="10,15"/>
+            <Setter Property ="BorderBrush" Value="Red"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="Padding" Value="5,3,3,5"/>
+        </Style>
+        <Style TargetType="StatusBarItem">
+            <Setter Property="FontSize" Value="11" />
+            <Setter Property="FontFamily" Value="Trebuchet MS"/>
+            <Setter Property="Background" Value="Gainsboro"/>
+        </Style>        <Style BasedOn="{StaticResource {x:Type StatusBarItem}}" TargetType="StatusBarItem" x:Key="headerText">
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+
+    </Window.Resources>
     <DockPanel>
 
         <Menu HorizontalAlignment="Left" DockPanel.Dock="Top">
@@ -52,16 +74,16 @@
             </Grid.RowDefinitions>
 
             <Button x:Name="setBut" Grid.Column="0" Grid.Row="0" Content="Set Name "
-HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top" Width="75"/>
+HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top"/>
             <Button x:Name ="retBut" Grid.Column="0" Grid.Row="1" Content="Ret Name "
 HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top" Width="75"/>
             <TextBox x:Name="setText" Grid.Column="1" Grid.Row="0"
 HorizontalAlignment="Stretch" VerticalAlignment="Top" Height="23" Width="120" Margin="10,15"
-TextChanged="setText_TextChanged"/>
+TextChanged="setText_TextChanged" Background="{StaticResource MyBrush}"/>
             <Label x:Name="retLabel" Grid.Column="1" Grid.Row="1" Content="Label"
-HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top"/>
+HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top" Background="{StaticResource MyBrush}"/>
             <Button x:Name="New_Win" Command="Local:CustomCommands.Launch" Grid.Column="0" Grid.Row="2" Content="New Win" />
-            <TextBlock x:Name="txtBlock" Grid.Column="1" Grid.Row="2" Margin="10,15,10,15"/>
+            <TextBlock x:Name="txtBlock" Grid.Column="1" Grid.Row="2" Margin="10,15,10,15" Background="{StaticResource MyBrush}"/>
         </Grid>
     </DockPanel>
 

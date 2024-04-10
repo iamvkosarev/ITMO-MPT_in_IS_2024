@@ -28,9 +28,62 @@
                             </Rectangle>
                             <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
                         </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Trigger.EnterActions>
+                                    <BeginStoryboard Name="Storyboard">
+                                        <Storyboard Duration="0:0:1">
+                                            <DoubleAnimation Storyboard.TargetProperty="FontSize" To="20" />
+                                            <DoubleAnimation Storyboard.TargetProperty="Width" To="100"/>
+                                            <DoubleAnimation Storyboard.TargetProperty="Height" To="100" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </Trigger.EnterActions>
+                                <Trigger.ExitActions>
+                                    <StopStoryboard BeginStoryboardName="Storyboard" />
+                                </Trigger.ExitActions>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
                     </ControlTemplate>
                 </Setter.Value>
             </Setter>
+            <Style.Triggers>
+                <!--<Trigger Property="IsMouseOver" Value="True">
+                    <Trigger.EnterActions>
+                        <BeginStoryboard Name="Storyboard">
+                            <Storyboard Duration="0:0:1">
+                                <DoubleAnimation Storyboard.TargetProperty="FontSize" To="20" />
+                                <DoubleAnimation Storyboard.TargetProperty="Width" To="100"/>
+                                <DoubleAnimation Storyboard.TargetProperty="Height" To="100" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </Trigger.EnterActions>                    <Trigger.ExitActions>
+                        <StopStoryboard BeginStoryboardName="Storyboard" />
+                    </Trigger.ExitActions>
+                </Trigger>-->
+                <!--<eventtrigger routedevent="mouse.mouseenter">
+                    <eventtrigger.actions>
+                        <beginstoryboard>
+                            <storyboard duration="0:0:1">
+                                <doubleanimation storyboard.targetproperty="fontsize" to="20" />
+                                <doubleanimation storyboard.targetproperty="width" to="100"/>
+                                <doubleanimation storyboard.targetproperty="height" to="100" />
+                            </storyboard>
+                        </beginstoryboard>
+                    </eventtrigger.actions>
+                </eventtrigger>
+                <eventtrigger routedevent="mouse.mouseleave">
+                    <eventtrigger.actions>
+                        <beginstoryboard>
+                            <storyboard duration="0:0:1">
+                                <doubleanimation storyboard.targetproperty="fontsize"/>
+                                <doubleanimation storyboard.targetproperty="width"/>
+                                <doubleanimation storyboard.targetproperty="height"/>
+                            </storyboard>
+                        </beginstoryboard>
+                     </eventtrigger.actions>
+                </eventtrigger>-->
+            </Style.Triggers>
         </Style>
     </Window.Resources>
     <Grid>

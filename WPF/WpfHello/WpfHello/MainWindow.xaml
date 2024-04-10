@@ -3,15 +3,22 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:WpfHello"
+        xmlns:Local="clr-namespace:WpfHello"
         mc:Ignorable="d"
         Title="NewMainWindow" Height="350" Width="500" MinHeight="350" MinWidth="300" Closing="Window_Closing">
     <DockPanel>
 
         <Menu HorizontalAlignment="Left" DockPanel.Dock="Top">
             <MenuItem Header="File">
+                <MenuItem Header="Launch" Command="Local:CustomCommands.Launch"/>
                 <MenuItem Header="Exit" Click="MenuItem_Click"/>
             </MenuItem>
+            <MenuItem Header="Edit">
+                <MenuItem Header="Копировать" CommandTarget="{Binding ElementName=MainWindow}" Command="Copy"/>
+                <MenuItem Header="Вырезать" CommandTarget="{Binding ElementName=MainWindow}" Command="Cut"/>
+                <MenuItem Header="Вставить" CommandTarget="{Binding ElementName=MainWindow}" Command="Paste"/>
+            </MenuItem>
+
         </Menu>
         <Label HorizontalAlignment="Center" x:Name="lbl" DockPanel.Dock="Top">
             Пуск
@@ -27,6 +34,10 @@
             <StatusBarItem x:Name="stb3">
                 <TextBlock></TextBlock>
             </StatusBarItem>
+            <StatusBarItem x:Name="stb4">
+                <CheckBox x:Name="check">Разрешить открытие формы</CheckBox>
+            </StatusBarItem>
+
         </StatusBar>
 
         <Grid ButtonBase.Click="Grid_Click">
@@ -49,9 +60,7 @@ HorizontalAlignment="Stretch" VerticalAlignment="Top" Height="23" Width="120" Ma
 TextChanged="setText_TextChanged"/>
             <Label x:Name="retLabel" Grid.Column="1" Grid.Row="1" Content="Label"
 HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top"/>
-            <Button x:Name="New_Win" Grid.Column="0" Grid.Row="2" Content="New Win"
-HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top" Width="75"
-Click="New_Win_Click"/>
+            <Button x:Name="New_Win" Command="Local:CustomCommands.Launch" Grid.Column="0" Grid.Row="2" Content="New Win" />
             <TextBlock x:Name="txtBlock" Grid.Column="1" Grid.Row="2" Margin="10,15,10,15"/>
         </Grid>
     </DockPanel>

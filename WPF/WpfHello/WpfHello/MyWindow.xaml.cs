@@ -35,7 +35,8 @@ namespace WpfHello
 
         private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
         {
-            wnd1.myWin = null;
+            if(wnd1 != null)
+                wnd1.myWin = null;
 
             if (_close) return;
             e.Cancel = true;

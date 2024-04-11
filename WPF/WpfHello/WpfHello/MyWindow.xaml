@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:WpfHello"
+        xmlns:Local="clr-namespace:WpfHello"
         mc:Ignorable="d"
         Title="MyWindow" Height="450" Width="800" Background="{StaticResource gradientStyle}"
  Closing="Window_Closing">
@@ -12,7 +12,8 @@
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="MyDictionary.xaml"/>
             </ResourceDictionary.MergedDictionaries>
-        <Style TargetType="Button">
+            
+            <Style TargetType="Button">
             <Setter Property="OverridesDefaultStyle" Value="True"/>
             <Setter Property="MinHeight" Value="50"/>
             <Setter Property="MinWidth" Value="50"/>
@@ -93,10 +94,22 @@
 
             </Style.Triggers>
             </Style>
+            <Local:StudentList x:Key="studentCollection"/>
+            <Local:BoolToBrushConverter x:Key="boolToBrushConverter" />
+            <DataTemplate x:Key="listBoxTemplate">
+                <StackPanel Orientation="Horizontal">
+                    <Rectangle Fill="{Binding Path=IsEnrolled, Converter={StaticResource boolToBrushConverter}}" Height="10" Width="10" Margin="0,0,5,0" />
+                    <TextBlock Text="{Binding Path=StudentName}" />
+                </StackPanel>
+            </DataTemplate>
         </ResourceDictionary>
     </Window.Resources>
     <Grid>
         <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Height="70" Width="70" Margin="206,157,0,0" VerticalAlignment="Top" Click="button_Click" Template="{DynamicResource customButtonTemplate}" />
         <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="317,157,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Height="80" Width="120"/>
+        <ListBox x:Name="listBox1" Height="60" HorizontalAlignment="Left" Margin="12,12,0,0" VerticalAlignment="Top" Width="250"
+                 ItemsSource="{Binding Source={StaticResource studentCollection}}" 
+                 ItemTemplate="{StaticResource listBoxTemplate}"/>
+        
     </Grid>
 </Window>

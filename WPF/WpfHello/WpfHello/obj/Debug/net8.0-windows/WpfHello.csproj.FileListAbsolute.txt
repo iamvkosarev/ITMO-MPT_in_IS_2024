@@ -47,3 +47,4 @@ C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies 
 C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\App.baml
 C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\ShinyBlue.baml
 C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\MyDictionary.baml
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs

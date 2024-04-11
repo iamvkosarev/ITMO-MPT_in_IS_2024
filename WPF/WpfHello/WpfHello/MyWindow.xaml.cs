@@ -48,7 +48,7 @@ namespace WpfHello
             wnd1 = Owner as MainWindow;
             if (wnd1 != null)
             {
-                wnd1.txtBlock.Text = textBox.Text;
+                wnd1.txtBlock.Text = $"Message {textBox.Text}\nSelected Student: {(listBox1.SelectedItem != null ? (listBox1.SelectedItem as Student).FullStudentData : "none")}";
                 PrintLogFile();
             }
             Close();

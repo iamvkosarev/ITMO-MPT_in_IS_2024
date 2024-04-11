@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfHello"
         mc:Ignorable="d"
-        Title="MyWindow" Height="450" Width="800" Background="{StaticResource gradientStyle}" Closing="Window_Closing">
+        Title="MyWindow" Height="450" Width="800" Background="{StaticResource gradientStyle}"
+ Closing="Window_Closing">
     <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="MyDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
         <Style TargetType="Button">
             <Setter Property="OverridesDefaultStyle" Value="True"/>
             <Setter Property="MinHeight" Value="50"/>
@@ -25,7 +30,8 @@
                                 <Rectangle.LayoutTransform>
                                     <RotateTransform Angle="45" />
                                 </Rectangle.LayoutTransform>
-                            </Rectangle>
+                            </Rectangle>
+
                             <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
                         </Grid>
                         <ControlTemplate.Triggers>
@@ -57,7 +63,8 @@
                                 <DoubleAnimation Storyboard.TargetProperty="Height" To="100" />
                             </Storyboard>
                         </BeginStoryboard>
-                    </Trigger.EnterActions>                    <Trigger.ExitActions>
+                    </Trigger.EnterActions>
+                    <Trigger.ExitActions>
                         <StopStoryboard BeginStoryboardName="Storyboard" />
                     </Trigger.ExitActions>
                 </Trigger>-->
@@ -82,12 +89,14 @@
                             </storyboard>
                         </beginstoryboard>
                      </eventtrigger.actions>
-                </eventtrigger>-->
+                </eventtrigger>-->
+
             </Style.Triggers>
-        </Style>
+            </Style>
+        </ResourceDictionary>
     </Window.Resources>
     <Grid>
-        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Height="70" Width="70" Margin="206,157,0,0" VerticalAlignment="Top" Click="button_Click"/>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Height="70" Width="70" Margin="206,157,0,0" VerticalAlignment="Top" Click="button_Click" Template="{DynamicResource customButtonTemplate}" />
         <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="317,157,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Height="80" Width="120"/>
     </Grid>
 </Window>

@@ -15,7 +15,13 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="MyDictionary.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MyWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ShinyBlue.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

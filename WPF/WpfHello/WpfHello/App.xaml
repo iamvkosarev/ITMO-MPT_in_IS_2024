@@ -4,10 +4,11 @@
              xmlns:local="clr-namespace:WpfHello"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-        <LinearGradientBrush x:Key="gradientStyle" StartPoint="0,0" EndPoint="0,1">
-            <GradientStop Color="Gray" Offset="0" />
-            <GradientStop Color="Green" Offset="0.5" />
-            <GradientStop Color="LawnGreen" Offset="1" />
-        </LinearGradientBrush>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="ShinyBlue.xaml"/>
+                <ResourceDictionary Source="MyDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

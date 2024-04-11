@@ -5,64 +5,96 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:Local="clr-namespace:WpfHello"
         mc:Ignorable="d"
-        Title="NewMainWindow" Height="350" Width="500" MinHeight="350" MinWidth="300" Background="{StaticResource gradientStyle}" Closing="Window_Closing">
+        Title="NewMainWindow" Height="350" Width="500" MinHeight="350" MinWidth="300" Background="{StaticResource gradientStyle}"
+ Closing="Window_Closing">
     <Window.Resources>
-        <SolidColorBrush x:Key="MyBrush" Color="Gold"/>
-        <Style TargetType="Button">
-            <Setter Property="Background" Value="Blue"/>
-            <Setter Property="FontSize" Value="14"/>
-            <Setter Property="Foreground" Value="{StaticResource MyBrush}"/>
-            <Setter Property="FontFamily" Value="Trebuchet MS"/>
-            <Setter Property="Margin" Value="10,15"/>
-            <Setter Property ="BorderBrush" Value="Red"/>
-            <Setter Property="BorderThickness" Value="2"/>
-            <Setter Property="Padding" Value="5,3,3,5"/>
-            <Style.Triggers>
-                <Trigger Property="IsMouseOver" Value="true">
-                    <Setter Property = "Foreground" Value="OrangeRed"/>
-                </Trigger>
-            </Style.Triggers>
-        </Style>
-        <Style TargetType="StatusBarItem">
-            <Setter Property="FontSize" Value="11" />
-            <Setter Property="FontFamily" Value="Trebuchet MS"/>
-            <Setter Property="Background" Value="Gainsboro"/>
-        </Style>        <Style BasedOn="{StaticResource {x:Type StatusBarItem}}" TargetType="StatusBarItem" x:Key="headerText">
-            <Setter Property="FontSize" Value="15" />
-            <Setter Property="FontWeight" Value="Bold" />
-        </Style>        <Style x:Key="FontTextBox">
-            <Style.Setters>
-                <Setter Property="Control.FontFamily" Value="Calibri"></Setter>
-                <Setter Property="Control.FontSize" Value="14"></Setter>
-                <Setter Property="TextBox.VerticalContentAlignment" Value="Center"></Setter>
-            </Style.Setters>
-            <Style.Triggers>
-                <!--<Trigger Property="Control.IsFocused" Value="True">
-                    <Setter Property="Control.Foreground" Value="Red"></Setter>
-                    <Setter Property="TextBox.BorderBrush" Value="Blue"></Setter>
-                    <Setter Property="Control.FontSize" Value="18"></Setter>
-                    <Setter Property="TextBox.BorderThickness" Value="3"></Setter>
-                </Trigger>
-                <Trigger Property="Control.IsMouseOver" Value="True">
-                    <Setter Property="Control.Foreground" Value="Red"></Setter>
-                    <Setter Property="TextBox.BorderBrush" Value="Blue"></Setter>
-                    <Setter Property="Control.FontSize" Value="18"></Setter>
-                    <Setter Property="TextBox.BorderThickness" Value="3"></Setter>
-                </Trigger>-->
-                <MultiTrigger>
-                    <MultiTrigger.Conditions>
-                        <Condition Property="Control.IsMouseOver" Value="True" />
-                        <Condition Property="Control.IsFocused" Value="True" />
-                    </MultiTrigger.Conditions>
-                    <MultiTrigger.Setters>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="MyDictionary.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <SolidColorBrush x:Key="MyBrush" Color="Gold"/>
+            <Style TargetType="TextBox">
+                <Style.Setters>
+                    <Setter Property="Control.FontFamily" Value="Calibri"></Setter>
+                    <Setter Property="Control.FontSize" Value="14"></Setter>
+                    <Setter Property="MinHeight" Value="23"></Setter>
+                    <Setter Property="TextBox.VerticalContentAlignment" Value="Top"></Setter>
+                </Style.Setters>
+                <Style.Triggers>
+                    <Trigger Property="Control.IsFocused" Value="True">
                         <Setter Property="Control.Foreground" Value="Red"></Setter>
                         <Setter Property="TextBox.BorderBrush" Value="Blue"></Setter>
                         <Setter Property="Control.FontSize" Value="18"></Setter>
                         <Setter Property="TextBox.BorderThickness" Value="3"></Setter>
-                    </MultiTrigger.Setters>
-                </MultiTrigger>
-            </Style.Triggers>
-        </Style>
+                    </Trigger>
+                    <Trigger Property="Control.IsMouseOver" Value="True">
+                        <Setter Property="Control.Foreground" Value="Red"></Setter>
+                        <Setter Property="TextBox.BorderBrush" Value="Blue"></Setter>
+                        <Setter Property="Control.FontSize" Value="18"></Setter>
+                        <Setter Property="TextBox.BorderThickness" Value="3"></Setter>
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+
+            <Style TargetType="Button">
+                <Setter Property="Background" Value="Blue"/>
+                <Setter Property="FontSize" Value="14"/>
+                <Setter Property="Foreground" Value="{StaticResource MyBrush}"/>
+                <Setter Property="FontFamily" Value="Trebuchet MS"/>
+                <Setter Property="Margin" Value="10,15"/>
+                <Setter Property ="BorderBrush" Value="Red"/>
+                <Setter Property="BorderThickness" Value="2"/>
+                <Setter Property="Padding" Value="5,3,3,5"/>
+                <Style.Triggers>
+                    <Trigger Property="IsMouseOver" Value="true">
+                        <Setter Property = "Foreground" Value="OrangeRed"/>
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+            <Style TargetType="StatusBarItem">
+                <Setter Property="FontSize" Value="11" />
+                <Setter Property="FontFamily" Value="Trebuchet MS"/>
+                <Setter Property="Background" Value="Gainsboro"/>
+            </Style>
+            <Style BasedOn="{StaticResource {x:Type StatusBarItem}}" TargetType="StatusBarItem" x:Key="headerText">
+                <Setter Property="FontSize" Value="15" />
+                <Setter Property="FontWeight" Value="Bold" />
+            </Style>
+            <Style x:Key="FontTextBox">
+                <Style.Setters>
+                    <Setter Property="Control.FontFamily" Value="Calibri"></Setter>
+                    <Setter Property="Control.FontSize" Value="14"></Setter>
+                    <Setter Property="TextBox.VerticalContentAlignment" Value="Center"></Setter>
+                </Style.Setters>
+                <Style.Triggers>
+                    <!--<Trigger Property="Control.IsFocused" Value="True">
+            <Setter Property="Control.Foreground" Value="Red"></Setter>
+            <Setter Property="TextBox.BorderBrush" Value="Blue"></Setter>
+            <Setter Property="Control.FontSize" Value="18"></Setter>
+            <Setter Property="TextBox.BorderThickness" Value="3"></Setter>
+        </Trigger>
+        <Trigger Property="Control.IsMouseOver" Value="True">
+            <Setter Property="Control.Foreground" Value="Red"></Setter>
+            <Setter Property="TextBox.BorderBrush" Value="Blue"></Setter>
+            <Setter Property="Control.FontSize" Value="18"></Setter>
+            <Setter Property="TextBox.BorderThickness" Value="3"></Setter>
+        </Trigger>-->
+                    <MultiTrigger>
+                        <MultiTrigger.Conditions>
+                            <Condition Property="Control.IsMouseOver" Value="True" />
+                            <Condition Property="Control.IsFocused" Value="True" />
+                        </MultiTrigger.Conditions>
+                        <MultiTrigger.Setters>
+                            <Setter Property="Control.Foreground" Value="Red"></Setter>
+                            <Setter Property="TextBox.BorderBrush" Value="Blue"></Setter>
+                            <Setter Property="Control.FontSize" Value="18"></Setter>
+                            <Setter Property="TextBox.BorderThickness" Value="3"></Setter>
+                        </MultiTrigger.Setters>
+                    </MultiTrigger>
+                </Style.Triggers>
+            </Style>
+        </ResourceDictionary>
+        
     </Window.Resources>
     <DockPanel>
 
@@ -93,7 +125,7 @@
                 <TextBlock></TextBlock>
             </StatusBarItem>
             <StatusBarItem x:Name="stb4">
-                <CheckBox x:Name="check">Разрешить открытие формы</CheckBox>
+                <CheckBox x:Name="check" Foreground="DarkBlue">Разрешить открытие формы</CheckBox>
             </StatusBarItem>
 
         </StatusBar>
@@ -117,7 +149,7 @@ HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top" Width="75"/>
 HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="10,15"
 TextChanged="setText_TextChanged" Background="{StaticResource MyBrush}" Style="{StaticResource ResourceKey=FontTextBox}"/>
             <Label x:Name="retLabel" Grid.Column="1" Grid.Row="1" Content="Label"
-HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top" Background="{StaticResource MyBrush}"/>
+HorizontalAlignment="Left" Margin="10,15" VerticalAlignment="Top" Background="{StaticResource MyBrush}" Style="{StaticResource ResourceKey=FontTextBox}"/>
             <Button x:Name="New_Win" Command="Local:CustomCommands.Launch" Grid.Column="0" Grid.Row="2" Content="New Win" />
             <TextBlock x:Name="txtBlock" Grid.Column="1" Grid.Row="2" Margin="10,15,10,15" Background="{StaticResource MyBrush}"/>
         </Grid>

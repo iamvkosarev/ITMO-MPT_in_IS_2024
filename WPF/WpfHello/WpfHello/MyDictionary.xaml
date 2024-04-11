@@ -1,0 +1,59 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <LinearGradientBrush x:Key="gradientStyle" StartPoint="0,0" EndPoint="0,1">
+        <GradientStop Color="Gray" Offset="0" />
+        <GradientStop Color="Green" Offset="0.5" />
+        <GradientStop Color="LawnGreen" Offset="1" />
+    </LinearGradientBrush>    <ControlTemplate x:Key="customButtonTemplate" TargetType="Button">
+        <Grid>
+            <Rectangle>
+                <Rectangle.Fill>
+                    <RadialGradientBrush >
+                        <GradientStop Color="Blue" Offset="0" />
+                        <GradientStop Color="BlueViolet" Offset="1" />
+                    </RadialGradientBrush>
+                </Rectangle.Fill>
+                <Rectangle.LayoutTransform>
+                    <RotateTransform x:Name="rotateTrans" Angle="45" />
+                </Rectangle.LayoutTransform>
+            </Rectangle>
+            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Trigger.EnterActions>
+                    <BeginStoryboard Name="Storyboard">
+                        <Storyboard Duration="0:0:1">
+                            <DoubleAnimation Storyboard.TargetProperty="FontSize" To="20"/>
+                            <DoubleAnimation Storyboard.TargetProperty="Width" To="100"/>
+                            <DoubleAnimation Storyboard.TargetProperty="Height" To="100"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </Trigger.EnterActions>
+                <Trigger.ExitActions>
+                    <StopStoryboard BeginStoryboardName="Storyboard" />
+                </Trigger.ExitActions>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>    <Style TargetType="TextBox">
+        <Style.Setters>
+            <Setter Property="Control.FontFamily" Value="Calibri"></Setter>
+            <Setter Property="Control.FontSize" Value="14"></Setter>
+            <Setter Property="TextBox.VerticalContentAlignment" Value="Top"></Setter>
+        </Style.Setters>
+        <Style.Triggers>
+            <Trigger Property="Control.IsFocused" Value="True">
+                <Setter Property="Control.Foreground" Value="Red"></Setter>
+                <Setter Property="TextBox.BorderBrush" Value="Blue"></Setter>
+                <Setter Property="Control.FontSize" Value="18"></Setter>
+                <Setter Property="TextBox.BorderThickness" Value="3"></Setter>
+            </Trigger>
+            <Trigger Property="Control.IsMouseOver" Value="True">
+                <Setter Property="Control.Foreground" Value="Red"></Setter>
+                <Setter Property="TextBox.BorderBrush" Value="Blue"></Setter>
+                <Setter Property="Control.FontSize" Value="18"></Setter>
+                <Setter Property="TextBox.BorderThickness" Value="3"></Setter>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+</ResourceDictionary>

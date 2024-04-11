@@ -1,0 +1,16 @@
+﻿<Window x:Class="BackgroundWorker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BackgroundWorker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="button1" Content="Start" HorizontalAlignment="Left" Margin="188,135,0,0" VerticalAlignment="Top" Click="button1_Click"/>
+        <Button x:Name="button2" Content="Cancel" HorizontalAlignment="Left" Margin="188,191,0,0" VerticalAlignment="Top" Click="button2_Click"/>
+        <Label x:Name="label1" Content="Cycles:" HorizontalAlignment="Left" Margin="285,132,0,0" VerticalAlignment="Top" Width="125"/>
+        <Label x:Name="label2" Content="пусто" HorizontalAlignment="Left" Margin="285,188,0,0" VerticalAlignment="Top" Width="125"/>
+
+    </Grid>
+</Window>

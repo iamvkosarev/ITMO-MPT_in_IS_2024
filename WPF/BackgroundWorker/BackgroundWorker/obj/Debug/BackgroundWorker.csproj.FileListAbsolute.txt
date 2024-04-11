@@ -1,0 +1,15 @@
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.exe.config
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.exe
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.pdb
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.AssemblyReference.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\BackgroundWorker\BackgroundWorker\obj\Debug\MainWindow.g.cs
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\BackgroundWorker\BackgroundWorker\obj\Debug\App.g.cs
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker_MarkupCompile.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker_MarkupCompile.lref
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\BackgroundWorker\BackgroundWorker\obj\Debug\MainWindow.baml
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.g.resources
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.Properties.Resources.resources
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.GenerateResource.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.exe
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.pdb

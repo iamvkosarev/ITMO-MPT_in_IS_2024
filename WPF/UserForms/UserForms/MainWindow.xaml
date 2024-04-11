@@ -1,0 +1,18 @@
+﻿<Window x:Class="UserForms.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        xmlns:my="clr-namespace:System.Windows.Forms.Integration;assembly=WindowsFormsIntegration"
+        xmlns:local="clr-namespace:UserForms"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <WindowsFormsHost x:Name="windowsFormsHost1" HorizontalAlignment="Left" Height="36" Margin="277,182,0,0" VerticalAlignment="Top" Width="148">
+            <wf:MaskedTextBox Name="MaskedTextBox1" Mask="(000)-000-0000"/>
+        </WindowsFormsHost>
+        <Button Height="23" Margin="21,76,125,0" Name="Button1" VerticalAlignment="Top" Click="Button1_Click">Add to collection</Button>
+        <Button Margin="21,0,125,118" Name="Button2" Height="22" VerticalAlignment="Bottom" Click="Button2_Click">Save collection to file</Button>
+    </Grid>
+</Window>

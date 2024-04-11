@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfUserControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfUserControl"
+        xmlns:myCtrls="clr-namespace:WpfUserControl"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <myCtrls:ShowNumberControl x:Name="mSNC" CurrentNumber="100">
+            <myCtrls:ShowNumberControl.Triggers>
+                <EventTrigger RoutedEvent="myCtrls:ShowNumberControl.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard TargetProperty="CurrentNumber">
+                            <Int32Animation From="100" To="600" Duration="0:0:3"></Int32Animation>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </myCtrls:ShowNumberControl.Triggers>
+        </myCtrls:ShowNumberControl>
+    </Grid>
+</Window>

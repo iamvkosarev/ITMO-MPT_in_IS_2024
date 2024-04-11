@@ -1,0 +1,15 @@
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\UserForms\UserForms\bin\Debug\UserForms.exe.config
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\UserForms\UserForms\bin\Debug\UserForms.exe
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\UserForms\UserForms\bin\Debug\UserForms.pdb
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\UserForms\UserForms\obj\Debug\UserForms.csproj.AssemblyReference.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\UserForms\UserForms\obj\Debug\MainWindow.g.cs
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\UserForms\UserForms\obj\Debug\App.g.cs
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.lref
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\UserForms\UserForms\obj\Debug\MainWindow.baml
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\UserForms\UserForms\obj\Debug\UserForms.g.resources
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\UserForms\UserForms\obj\Debug\UserForms.Properties.Resources.resources
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\UserForms\UserForms\obj\Debug\UserForms.csproj.GenerateResource.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\UserForms\UserForms\obj\Debug\UserForms.csproj.CoreCompileInputs.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\UserForms\UserForms\obj\Debug\UserForms.exe
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\UserForms\UserForms\obj\Debug\UserForms.pdb

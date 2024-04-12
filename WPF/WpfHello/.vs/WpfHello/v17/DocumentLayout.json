@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfhello\\wpfhello\\shinyblue.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\shinyblue.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfhello\\wpfhello\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfhello\\wpfhello\\mywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\mywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfhello\\wpfhello\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfhello\\wpfhello\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfhello\\wpfhello\\booltobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\booltobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfhello\\wpfhello\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfhello\\wpfhello\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfhello\\wpfhello\\customcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\customcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfhello\\wpfhello\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfhello\\wpfhello\\mydictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9BDEEC72-D0F0-4C34-A7C0-90BB2EACE92F}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\mydictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +50,86 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShinyBlue.xaml",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\ShinyBlue.xaml",
+              "RelativeDocumentMoniker": "WpfHello\\ShinyBlue.xaml",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\ShinyBlue.xaml",
+              "RelativeToolTip": "WpfHello\\ShinyBlue.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T16:56:56.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoolToBrushConverter.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\BoolToBrushConverter.cs",
+              "RelativeDocumentMoniker": "WpfHello\\BoolToBrushConverter.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\BoolToBrushConverter.cs",
+              "RelativeToolTip": "WpfHello\\BoolToBrushConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T16:41:14.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\StudentList.cs",
+              "RelativeDocumentMoniker": "WpfHello\\StudentList.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\StudentList.cs",
+              "RelativeToolTip": "WpfHello\\StudentList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T16:35:41.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\Student.cs",
+              "RelativeDocumentMoniker": "WpfHello\\Student.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\Student.cs",
+              "RelativeToolTip": "WpfHello\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T16:26:45.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\MyWindow.xaml",
+              "RelativeDocumentMoniker": "WpfHello\\MyWindow.xaml",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\MyWindow.xaml",
+              "RelativeToolTip": "WpfHello\\MyWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T11:58:58.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\App.xaml",
+              "RelativeDocumentMoniker": "WpfHello\\App.xaml",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\App.xaml",
+              "RelativeToolTip": "WpfHello\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T11:58:05.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CustomCommands.cs",
               "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\CustomCommands.cs",
               "RelativeDocumentMoniker": "WpfHello\\CustomCommands.cs",
@@ -34,23 +137,25 @@
               "RelativeToolTip": "WpfHello\\CustomCommands.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T06:27:40.971Z"
+              "WhenOpened": "2024-04-10T06:27:40.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfHello\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfHello\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAOAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAkwDQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T06:11:09.184Z"
+              "WhenOpened": "2024-04-10T06:11:09.184Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfHello\\MainWindow.xaml",
@@ -58,6 +163,18 @@
               "RelativeToolTip": "WpfHello\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-03-24T16:49:50.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyDictionary.xaml",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\MyDictionary.xaml",
+              "RelativeDocumentMoniker": "WpfHello\\MyDictionary.xaml",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHello\\WpfHello\\MyDictionary.xaml",
+              "RelativeToolTip": "WpfHello\\MyDictionary.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T14:09:04.547Z",
               "EditorCaption": ""
             }
           ]

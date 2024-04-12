@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfUserControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfusercontrol\\wpfusercontrol\\shownumbercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|solutionrelative:wpfusercontrol\\shownumbercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfusercontrol\\wpfusercontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|solutionrelative:wpfusercontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfusercontrol\\wpfusercontrol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|solutionrelative:wpfusercontrol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfusercontrol\\wpfusercontrol\\shownumbercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|solutionrelative:wpfusercontrol\\shownumbercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iamvk\\AppData\\Local\\Temp\\.vsdbgsrc\\92a55ada2dd14c597d671f498d0088eed7bd36127645c3f93e1b173c5e115e9c\\Storyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Storyboard.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\AppData\\Local\\Temp\\.vsdbgsrc\\92a55ada2dd14c597d671f498d0088eed7bd36127645c3f93e1b173c5e115e9c\\Storyboard.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\92a55ada2dd14c597d671f498d0088eed7bd36127645c3f93e1b173c5e115e9c\\Storyboard.cs",
+              "ToolTip": "C:\\Users\\iamvk\\AppData\\Local\\Temp\\.vsdbgsrc\\92a55ada2dd14c597d671f498d0088eed7bd36127645c3f93e1b173c5e115e9c\\Storyboard.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\92a55ada2dd14c597d671f498d0088eed7bd36127645c3f93e1b173c5e115e9c\\Storyboard.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAHICAAAAAAAAAAAswH8CAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:36:43.767Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowNumberControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfUserControl\\WpfUserControl\\ShowNumberControl.xaml.cs",
+              "RelativeDocumentMoniker": "WpfUserControl\\ShowNumberControl.xaml.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfUserControl\\WpfUserControl\\ShowNumberControl.xaml.cs",
+              "RelativeToolTip": "WpfUserControl\\ShowNumberControl.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:31:52.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowNumberControl.xaml",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfUserControl\\WpfUserControl\\ShowNumberControl.xaml",
+              "RelativeDocumentMoniker": "WpfUserControl\\ShowNumberControl.xaml",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfUserControl\\WpfUserControl\\ShowNumberControl.xaml",
+              "RelativeToolTip": "WpfUserControl\\ShowNumberControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T17:31:06.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfUserControl\\WpfUserControl\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfUserControl\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfUserControl\\WpfUserControl\\MainWindow.xaml",
+              "RelativeToolTip": "WpfUserControl\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T17:30:17.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfUserControl\\WpfUserControl\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfUserControl\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfUserControl\\WpfUserControl\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfUserControl\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:30:17.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

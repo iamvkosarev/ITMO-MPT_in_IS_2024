@@ -1,0 +1,33 @@
+﻿<Window
+    x:Class="WpfApplicationChart.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:WpfApplicationChart="clr-namespace:WpfApplicationChart"
+    xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:WpfApplicationChart"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Chart"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <Window.Resources>
+        <WpfApplicationChart:Model x:Key="model" />
+    </Window.Resources>
+    <Grid DataContext="{Binding Source={StaticResource model}}">
+        <chartingToolkit:Chart>
+            <chartingToolkit:ColumnSeries
+                DependentValuePath="Value"
+                IndependentValuePath="Name"
+                ItemsSource="{Binding Path=Data}" />
+            <chartingToolkit:Chart.Axes>
+                <chartingToolkit:LinearAxis
+                    Title="Value"
+                    Maximum="50"
+                    Minimum="0"
+                    Orientation="Y"
+                    ShowGridLines="True" />
+            </chartingToolkit:Chart.Axes>
+        </chartingToolkit:Chart>
+    </Grid>
+</Window>

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfApplicationPolygon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9542F22D-E34D-4D43-BE44-290C6B5020FB}|WpfApplicationPolygon\\WpfApplicationPolygon.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfapplicationpolygon\\wpfapplicationpolygon\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9542F22D-E34D-4D43-BE44-290C6B5020FB}|WpfApplicationPolygon\\WpfApplicationPolygon.csproj|solutionrelative:wpfapplicationpolygon\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542F22D-E34D-4D43-BE44-290C6B5020FB}|WpfApplicationPolygon\\WpfApplicationPolygon.csproj|C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfApplicationPolygon\\wpfapplicationpolygon\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542F22D-E34D-4D43-BE44-290C6B5020FB}|WpfApplicationPolygon\\WpfApplicationPolygon.csproj|solutionrelative:wpfapplicationpolygon\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfApplicationPolygon\\WpfApplicationPolygon\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApplicationPolygon\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfApplicationPolygon\\WpfApplicationPolygon\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApplicationPolygon\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-12T05:41:29.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfApplicationPolygon\\WpfApplicationPolygon\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApplicationPolygon\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfApplicationPolygon\\WpfApplicationPolygon\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApplicationPolygon\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:41:26.837Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

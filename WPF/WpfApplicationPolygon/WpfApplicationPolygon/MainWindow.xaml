@@ -1,0 +1,61 @@
+﻿<Window
+    x:Class="WpfApplicationPolygon.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:WpfApplicationPolygon"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <Canvas Width="300" Height="300">
+        <!--  Рисует треугольник с голубым наполнением  -->
+        <Polygon Fill="Blue" Points="10,110 60,10 110,110" />
+        <!--  Рисует треугольник с голубым наполнением и черным контуром  -->
+        <Polygon
+            Canvas.Top="150"
+            Fill="Blue"
+            Points="10,110 60,10 110,110"
+            Stroke="Black"
+            StrokeThickness="4" />
+        <!--  Рисует еще треугольник с голубым наполнением  -->
+        <Polygon
+            Canvas.Left="150"
+            Fill="Blue"
+            Points="10,110 110,110 110,10" />
+        <!--  Рисует треугольник с черным контуром  -->
+        <Polygon
+            Canvas.Left="150"
+            Canvas.Top="150"
+            Points="10,110 110,110 110,10"
+            Stroke="Black"
+            StrokeThickness="4" />
+        <!--  Polygon A  -->
+        <Polygon
+            Canvas.Left="300"
+            Canvas.Top="10"
+            Fill="Gold"
+            FillRule="Nonzero"
+            Points="10,100 50,0 90,100 0,35 100,35"
+            Stroke="Black"
+            StrokeThickness="3" />
+        <!--  Polygon B  -->
+        <Polygon
+            Canvas.Left="300"
+            Canvas.Top="150"
+            Fill="Gold"
+            FillRule="EvenOdd"
+            Points="10,100 50,0 90,100 0,35 100,35"
+            Stroke="Black"
+            StrokeThickness="3" />
+        <Polygon
+            Canvas.Left="400"
+            Canvas.Top="150"
+            Fill="Gold"
+            FillRule="EvenOdd"
+            Points="10,100 50,0 90,100"
+            Stroke="Black"
+            StrokeThickness="3" />
+    </Canvas>
+</Window>

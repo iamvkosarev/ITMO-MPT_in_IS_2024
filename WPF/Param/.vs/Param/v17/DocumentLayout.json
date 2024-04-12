@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\Param\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCD1A63-2E75-4979-AAD5-4865FC8D0D4E}|Param\\Param.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\param\\param\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCD1A63-2E75-4979-AAD5-4865FC8D0D4E}|Param\\Param.csproj|solutionrelative:param\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCD1A63-2E75-4979-AAD5-4865FC8D0D4E}|Param\\Param.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\param\\param\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBCD1A63-2E75-4979-AAD5-4865FC8D0D4E}|Param\\Param.csproj|solutionrelative:param\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCD1A63-2E75-4979-AAD5-4865FC8D0D4E}|Param\\Param.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\param\\param\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{EBCD1A63-2E75-4979-AAD5-4865FC8D0D4E}|Param\\Param.csproj|solutionrelative:param\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\Param\\Param\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Param\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\Param\\Param\\Properties\\Settings.settings",
+              "RelativeToolTip": "Param\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-04-12T07:24:41.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\Param\\Param\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Param\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\Param\\Param\\MainWindow.xaml",
+              "RelativeToolTip": "Param\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-12T07:24:14.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\Param\\Param\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Param\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\Param\\Param\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Param\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:24:14.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

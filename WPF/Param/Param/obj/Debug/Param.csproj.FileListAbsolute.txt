@@ -1,0 +1,15 @@
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Param\Param\bin\Debug\Param.exe.config
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Param\Param\bin\Debug\Param.exe
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Param\Param\bin\Debug\Param.pdb
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Param\Param\obj\Debug\Param.csproj.AssemblyReference.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Param\Param\obj\Debug\MainWindow.g.cs
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Param\Param\obj\Debug\App.g.cs
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Param\Param\obj\Debug\Param_MarkupCompile.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Param\Param\obj\Debug\Param_MarkupCompile.lref
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Param\Param\obj\Debug\MainWindow.baml
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Param\Param\obj\Debug\Param.g.resources
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Param\Param\obj\Debug\Param.Properties.Resources.resources
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Param\Param\obj\Debug\Param.csproj.GenerateResource.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Param\Param\obj\Debug\Param.csproj.CoreCompileInputs.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Param\Param\obj\Debug\Param.exe
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Param\Param\obj\Debug\Param.pdb

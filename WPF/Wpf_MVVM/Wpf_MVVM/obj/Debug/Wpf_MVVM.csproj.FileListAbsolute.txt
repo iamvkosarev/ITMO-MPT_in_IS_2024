@@ -1,0 +1,15 @@
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Wpf_MVVM\Wpf_MVVM\bin\Debug\Wpf_MVVM.exe.config
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Wpf_MVVM\Wpf_MVVM\bin\Debug\Wpf_MVVM.exe
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Wpf_MVVM\Wpf_MVVM\bin\Debug\Wpf_MVVM.pdb
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.csproj.AssemblyReference.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\View\MainWindow.g.cs
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\App.g.cs
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM_MarkupCompile.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM_MarkupCompile.lref
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\View\MainWindow.baml
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.g.resources
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.Properties.Resources.resources
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.csproj.GenerateResource.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.csproj.CoreCompileInputs.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.exe
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.pdb

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WpfHelloNav\\WpfHelloNav\\WpfHelloNav.csproj",
+      "projectUniqueName": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHelloNav\\WpfHelloNav\\WpfHelloNav.csproj",
       "projectName": "WpfHelloNav",
-      "projectPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WpfHelloNav\\WpfHelloNav\\WpfHelloNav.csproj",
+      "projectPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHelloNav\\WpfHelloNav\\WpfHelloNav.csproj",
       "packagesPath": "C:\\Users\\iamvk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WpfHelloNav\\WpfHelloNav\\obj\\",
+      "outputPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfHelloNav\\WpfHelloNav\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

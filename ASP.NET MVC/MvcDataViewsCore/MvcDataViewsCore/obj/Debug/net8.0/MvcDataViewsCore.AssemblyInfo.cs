@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcDataViewsCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaea77f54392f1d5cf021b595e454e5dbff09aad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c2de9ad13b8f5d205e7f33d0b91a6f811255148")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcDataViewsCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcDataViewsCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

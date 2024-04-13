@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfUserControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfusercontrol\\wpfusercontrol\\shownumbercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|solutionrelative:wpfusercontrol\\shownumbercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfusercontrol\\wpfusercontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|solutionrelative:wpfusercontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfusercontrol\\wpfusercontrol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfUserControl\\wpfusercontrol\\shownumbercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|solutionrelative:wpfusercontrol\\shownumbercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfUserControl\\wpfusercontrol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|solutionrelative:wpfusercontrol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\wpf\\wpfusercontrol\\wpfusercontrol\\shownumbercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfUserControl\\wpfusercontrol\\shownumbercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CB8493CA-D53A-41E8-9587-EE1C0CDEC950}|WpfUserControl\\WpfUserControl.csproj|solutionrelative:wpfusercontrol\\shownumbercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -29,8 +29,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -46,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ShowNumberControl.xaml.cs",
               "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfUserControl\\WpfUserControl\\ShowNumberControl.xaml.cs",
               "RelativeDocumentMoniker": "WpfUserControl\\ShowNumberControl.xaml.cs",
@@ -54,8 +70,7 @@
               "RelativeToolTip": "WpfUserControl\\ShowNumberControl.xaml.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAQwDUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T17:31:52.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T17:31:52.419Z"
             },
             {
               "$type": "Document",
@@ -71,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\WPF\\WpfUserControl\\WpfUserControl\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfUserControl\\MainWindow.xaml",
@@ -91,8 +106,7 @@
               "RelativeToolTip": "WpfUserControl\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T17:30:17.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T17:30:17.587Z"
             }
           ]
         }

@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\Razor Page\\WebAppCoreProduct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{363F6F02-BECB-444B-B5AB-17B75033CF7E}|WebAppCoreProduct\\WebAppCoreProduct.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\razor page\\webappcoreproduct\\webappcoreproduct\\interfaces\\iproductdatachecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363F6F02-BECB-444B-B5AB-17B75033CF7E}|WebAppCoreProduct\\WebAppCoreProduct.csproj|solutionrelative:webappcoreproduct\\interfaces\\iproductdatachecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363F6F02-BECB-444B-B5AB-17B75033CF7E}|WebAppCoreProduct\\WebAppCoreProduct.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\razor page\\webappcoreproduct\\webappcoreproduct\\interfaces\\idiscountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363F6F02-BECB-444B-B5AB-17B75033CF7E}|WebAppCoreProduct\\WebAppCoreProduct.csproj|solutionrelative:webappcoreproduct\\interfaces\\idiscountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363F6F02-BECB-444B-B5AB-17B75033CF7E}|WebAppCoreProduct\\WebAppCoreProduct.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\razor page\\webappcoreproduct\\webappcoreproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363F6F02-BECB-444B-B5AB-17B75033CF7E}|WebAppCoreProduct\\WebAppCoreProduct.csproj|solutionrelative:webappcoreproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductDataChecker.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\Razor Page\\WebAppCoreProduct\\WebAppCoreProduct\\Interfaces\\IProductDataChecker.cs",
+              "RelativeDocumentMoniker": "WebAppCoreProduct\\Interfaces\\IProductDataChecker.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\Razor Page\\WebAppCoreProduct\\WebAppCoreProduct\\Interfaces\\IProductDataChecker.cs",
+              "RelativeToolTip": "WebAppCoreProduct\\Interfaces\\IProductDataChecker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:08:23.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDiscountCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\Razor Page\\WebAppCoreProduct\\WebAppCoreProduct\\Interfaces\\IDiscountCalculator.cs",
+              "RelativeDocumentMoniker": "WebAppCoreProduct\\Interfaces\\IDiscountCalculator.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\Razor Page\\WebAppCoreProduct\\WebAppCoreProduct\\Interfaces\\IDiscountCalculator.cs",
+              "RelativeToolTip": "WebAppCoreProduct\\Interfaces\\IDiscountCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:08:18.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\Razor Page\\WebAppCoreProduct\\WebAppCoreProduct\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppCoreProduct\\Program.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\Razor Page\\WebAppCoreProduct\\WebAppCoreProduct\\Program.cs",
+              "RelativeToolTip": "WebAppCoreProduct\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:08:05.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

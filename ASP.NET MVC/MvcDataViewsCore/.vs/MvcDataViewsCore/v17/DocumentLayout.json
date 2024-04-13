@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\MvcDataViewsCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC900FE0-3A9E-49C0-9CD3-7AA4A5EE7E3D}|MvcDataViewsCore\\MvcDataViewsCore.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\mvcdataviewscore\\mvcdataviewscore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC900FE0-3A9E-49C0-9CD3-7AA4A5EE7E3D}|MvcDataViewsCore\\MvcDataViewsCore.csproj|solutionrelative:mvcdataviewscore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC900FE0-3A9E-49C0-9CD3-7AA4A5EE7E3D}|MvcDataViewsCore\\MvcDataViewsCore.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\mvcdataviewscore\\mvcdataviewscore\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC900FE0-3A9E-49C0-9CD3-7AA4A5EE7E3D}|MvcDataViewsCore\\MvcDataViewsCore.csproj|solutionrelative:mvcdataviewscore\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\MvcDataViewsCore\\MvcDataViewsCore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MvcDataViewsCore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\MvcDataViewsCore\\MvcDataViewsCore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MvcDataViewsCore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T09:11:45.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\MvcDataViewsCore\\MvcDataViewsCore\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "MvcDataViewsCore\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\MvcDataViewsCore\\MvcDataViewsCore\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "MvcDataViewsCore\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:11:24.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

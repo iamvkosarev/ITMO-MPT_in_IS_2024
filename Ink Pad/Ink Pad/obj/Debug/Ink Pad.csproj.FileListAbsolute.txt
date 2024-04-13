@@ -1,0 +1,30 @@
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Ink Pad\Ink Pad\bin\Debug\Ink Pad.exe.config
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Ink Pad\Ink Pad\bin\Debug\Ink Pad.exe
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Ink Pad\Ink Pad\bin\Debug\Ink Pad.pdb
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.AssemblyReference.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Ink Pad\Ink Pad\obj\Debug\MainWindow.g.cs
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Ink Pad\Ink Pad\obj\Debug\App.g.cs
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.lref
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Ink Pad\Ink Pad\obj\Debug\MainWindow.baml
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad.g.resources
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Ink Pad\Ink Pad\obj\Debug\Ink_Pad.Properties.Resources.resources
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.GenerateResource.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.CoreCompileInputs.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad.exe
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad.pdb
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\Ink Pad\Ink Pad\bin\Debug\Ink Pad.exe.config
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\Ink Pad\Ink Pad\bin\Debug\Ink Pad.exe
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\Ink Pad\Ink Pad\bin\Debug\Ink Pad.pdb
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.AssemblyReference.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\Ink Pad\Ink Pad\obj\Debug\MainWindow.g.cs
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\Ink Pad\Ink Pad\obj\Debug\App.g.cs
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\Ink Pad\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\Ink Pad\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.lref
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\Ink Pad\Ink Pad\obj\Debug\MainWindow.baml
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\Ink Pad\Ink Pad\obj\Debug\Ink Pad.g.resources
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\Ink Pad\Ink Pad\obj\Debug\Ink_Pad.Properties.Resources.resources
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.GenerateResource.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.CoreCompileInputs.cache
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\Ink Pad\Ink Pad\obj\Debug\Ink Pad.exe
+C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\Ink Pad\Ink Pad\obj\Debug\Ink Pad.pdb

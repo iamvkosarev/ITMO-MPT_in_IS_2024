@@ -48,5 +48,10 @@ namespace UserForms
             myWriter.Close();
 
         }
+
+        private void WindowsFormsHost_ChildChanged()
+        {
+
+        }
     }
 }

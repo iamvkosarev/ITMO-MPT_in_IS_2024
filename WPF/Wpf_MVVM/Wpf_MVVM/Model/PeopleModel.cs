@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Wpf_MVVM.Model
 {
-    class PeopleModel 
+    class PeopleModel : INotifyPropertyChanged
     {
         #region Fields
         private string _FirstName;

@@ -26,6 +26,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\iamvk\Desktop\ITMO\Master degree\2 sem\Modern programming technologies in infocommunication systems\Tasks\MPT_in_IS_2024\ASP.NET MVC\MvcCreditApp1\MvcCreditApp1
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/iamvk/Desktop/ITMO/Master degree/2 sem/Modern programming technologies in infocommunication systems/Tasks/MPT_in_IS_2024/ASP.NET MVC/MvcCreditApp1/MvcCreditApp1/Views/Bids/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlkc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamvk/Desktop/ITMO/Master degree/2 sem/Modern programming technologies in infocommunication systems/Tasks/MPT_in_IS_2024/ASP.NET MVC/MvcCreditApp1/MvcCreditApp1/Views/Bids/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlkc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamvk/Desktop/ITMO/Master degree/2 sem/Modern programming technologies in infocommunication systems/Tasks/MPT_in_IS_2024/ASP.NET MVC/MvcCreditApp1/MvcCreditApp1/Views/Bids/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlkc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamvk/Desktop/ITMO/Master degree/2 sem/Modern programming technologies in infocommunication systems/Tasks/MPT_in_IS_2024/ASP.NET MVC/MvcCreditApp1/MvcCreditApp1/Views/Bids/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlkc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamvk/Desktop/ITMO/Master degree/2 sem/Modern programming technologies in infocommunication systems/Tasks/MPT_in_IS_2024/ASP.NET MVC/MvcCreditApp1/MvcCreditApp1/Views/Bids/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlkc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/iamvk/Desktop/ITMO/Master degree/2 sem/Modern programming technologies in infocommunication systems/Tasks/MPT_in_IS_2024/ASP.NET MVC/MvcCreditApp1/MvcCreditApp1/Views/Home/CreateBid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVCaWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

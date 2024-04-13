@@ -1,0 +1,41 @@
+﻿@model MvcCreditApp1.Models.Bid
+
+@{
+    ViewData["Title"] = "Создание заявки";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Создание заявки</h2>
+
+<legend>Заявка</legend>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CreditHead" class="control-label"></label>
+                <input asp-for="CreditHead" class="form-control" />
+                <span asp-validation-for="CreditHead" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="bidDate" class="control-label"></label>
+                <input asp-for="bidDate" class="form-control" />
+                <span asp-validation-for="bidDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Создать" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    @Html.ActionLink("Вернуться в список", "Index")
+</div>
+

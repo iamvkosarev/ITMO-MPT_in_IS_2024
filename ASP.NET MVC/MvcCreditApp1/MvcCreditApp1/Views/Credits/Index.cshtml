@@ -1,0 +1,54 @@
+﻿@model IEnumerable<MvcCreditApp1.Models.Credit>
+
+@{
+    ViewData["Title"] = "Кредиты";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Кредиты</h2>
+<p>
+    @Html.ActionLink("Создать новый кредит", "Create")
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Head)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Period)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sum)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Procent)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Head)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Period)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sum)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Procent)
+            </td>
+            <td>
+
+                    @Html.ActionLink("Изменить", "Edit", new { id = item.CreditId }) |
+                    @Html.ActionLink("Подробнее", "Details", new { id = item.CreditId }) |
+                    @Html.ActionLink("Удалить", "Delete", new { id = item.CreditId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

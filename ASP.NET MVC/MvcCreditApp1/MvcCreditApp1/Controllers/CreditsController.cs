@@ -1,68 +1,66 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using System.Data.Entity;
+using Microsoft.EntityFrameworkCore;
 using MvcCreditApp1.Models;
-using Microsoft.AspNetCore.OutputCaching;
 
 namespace MvcCreditApp1.Controllers
 {
-    public class BidsController : Controller
+    public class CreditsController : Controller
     {
+
         private CreditContext db = new CreditContext();
 
-
-        // GET: Bids
-        [OutputCache(Duration = 60)]
+        // GET: Credits
         public IActionResult Index()
         {
-            return View(db.Bids.ToList());
+            return View(db.Credits.ToList());
         }
 
-        // GET: Bids/Details/5
-        public  IActionResult Details(int? id)
+        // GET: Credits/Details/5
+        public IActionResult Details(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var bid = db.Bids
-                .FirstOrDefault(m => m.BidId == id);
-            if (bid == null)
+            var credit =  db.Credits
+                .FirstOrDefault(m => m.CreditId == id);
+            if (credit == null)
             {
                 return NotFound();
             }
 
-            return View(bid);
+            return View(credit);
         }
 
-        // GET: Bids/Create
+        // GET: Credits/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Bids/Create
+        // POST: Credits/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public  IActionResult Create([Bind("BidId,Name,CreditHead,bidDate")] Bid bid)
+        public IActionResult Create([Bind("CreditId,Head,Period,Sum,Procent")] Credit credit)
         {
             if (ModelState.IsValid)
             {
-                db.Bids.Add(bid);
+                db.Credits.Add(credit);
                 db.SaveChanges();
                 return RedirectToAction(nameof(Index));
             }
-            return View(bid);
+            return View(credit);
         }
 
-        // GET: Bids/Edit/5
+        // GET: Credits/Edit/5
         public IActionResult Edit(int? id)
         {
             if (id == null)
@@ -70,22 +68,22 @@ namespace MvcCreditApp1.Controllers
                 return NotFound();
             }
 
-            var bid = db.Bids.Find(id);
-            if (bid == null)
+            var credit = db.Credits.Find(id);
+            if (credit == null)
             {
                 return NotFound();
             }
-            return View(bid);
+            return View(credit);
         }
 
-        // POST: Bids/Edit/5
+        // POST: Credits/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(int id, [Bind("BidId,Name,CreditHead,bidDate")] Bid bid)
+        public async Task<IActionResult> Edit(int id, [Bind("CreditId,Head,Period,Sum,Procent")] Credit credit)
         {
-            if (id != bid.BidId)
+            if (id != credit.CreditId)
             {
                 return NotFound();
             }
@@ -94,21 +92,22 @@ namespace MvcCreditApp1.Controllers
             {
                 try
                 {
-                    var bidInDb = db.Bids.FirstOrDefault(b => b.BidId == id);
-                    if (bidInDb != null)
+                    var creditInDb = db.Credits.FirstOrDefault(b => b.CreditId == id);
+                    if (creditInDb != null)
                     {
-                        bidInDb.CreditHead = bid.CreditHead;
-                        bidInDb.Name = bid.Name;
-                        bidInDb.bidDate = bid.bidDate;
+                        creditInDb.Procent = credit.Procent;
+                        creditInDb.Head = credit.Head;
+                        creditInDb.Sum = credit.Sum;
+                        creditInDb.Period = credit.Period;
 
                         // Сохраняем изменения в базе данных
                         db.SaveChanges();
                     }
-                    
+                    await db.SaveChangesAsync();
                 }
-                catch (Exception ex)
+                catch (DbUpdateConcurrencyException)
                 {
-                    if (!BidExists(bid.BidId))
+                    if (!CreditExists(credit.CreditId))
                     {
                         return NotFound();
                     }
@@ -119,10 +118,10 @@ namespace MvcCreditApp1.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(bid);
+            return View(credit);
         }
 
-        // GET: Bids/Delete/5
+        // GET: Credits/Delete/5
         public IActionResult Delete(int? id)
         {
             if (id == null)
@@ -130,33 +129,34 @@ namespace MvcCreditApp1.Controllers
                 return NotFound();
             }
 
-            var bid = db.Bids.FirstOrDefault(m => m.BidId == id);
-            if (bid == null)
+            var credit =  db.Credits
+                .FirstOrDefault(m => m.CreditId == id);
+            if (credit == null)
             {
                 return NotFound();
             }
 
-            return View(bid);
+            return View(credit);
         }
 
-        // POST: Bids/Delete/5
+        // POST: Credits/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public IActionResult DeleteConfirmed(int id)
+        public  IActionResult DeleteConfirmed(int id)
         {
-            var bid =  db.Bids.First(bid => bid.BidId == id);
-            if (bid != null)
+            var credit =  db.Credits.Find(id);
+            if (credit != null)
             {
-                db.Bids.Remove(bid);
+                db.Credits.Remove(credit);
             }
 
              db.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool BidExists(int id)
+        private bool CreditExists(int id)
         {
-            return db.Bids.Any(e => e.BidId == id);
+            return db.Credits.Any(e => e.CreditId == id);
         }
     }
 }

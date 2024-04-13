@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using MvcCreditApp1.Models;
 using System.Data.Entity;
@@ -33,7 +34,7 @@ namespace MvcCreditApp1.Controllers
             return PartialView(allBids);
         }
 
-
+        [Authorize]
         [HttpGet]
         public ActionResult CreateBid()
         {

@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcCreditApp1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9e97f4e0ce96f33e446ab20dec69f19f70bd244")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc03718882e4fb7f53e03394e8147318924bdc28")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcCreditApp1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcCreditApp1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

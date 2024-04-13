@@ -670,6 +670,33 @@
           }
         }
       },
+      "jQuery/1.8.0": {
+        "type": "package"
+      },
+      "LigerShark.WebOptimizer.Core/3.0.405": {
+        "type": "package",
+        "dependencies": {
+          "NUglify": "1.20.7",
+          "System.Text.Json": "5.0.2"
+        },
+        "compile": {
+          "lib/netcoreapp3.0/WebOptimizer.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/WebOptimizer.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ],
+        "build": {
+          "build/LigerShark.WebOptimizer.Core.props": {},
+          "build/LigerShark.WebOptimizer.Core.targets": {}
+        }
+      },
       "Microsoft.AspNetCore.Razor.Language/6.0.24": {
         "type": "package",
         "compile": {
@@ -1737,6 +1764,12 @@
           }
         }
       },
+      "Microsoft.jQuery.Unobtrusive.Ajax/3.2.6": {
+        "type": "package",
+        "dependencies": {
+          "jQuery": "1.8.0"
+        }
+      },
       "Microsoft.NET.StringTools/17.8.3": {
         "type": "package",
         "compile": {
@@ -2086,6 +2119,19 @@
         },
         "runtime": {
           "lib/netstandard2.0/NuGet.Versioning.dll": {}
+        }
+      },
+      "NUglify/1.20.7": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/NUglify.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/NUglify.dll": {
+            "related": ".xml"
+          }
         }
       },
       "runtime.native.System.Data.SqlClient.sni/4.7.0": {
@@ -3723,6 +3769,42 @@
         "lib/net6.0/zh-Hant/Humanizer.resources.dll",
         "lib/netstandard1.0/zh-Hant/Humanizer.resources.dll",
         "lib/netstandard2.0/zh-Hant/Humanizer.resources.dll",
+        "logo.png"
+      ]
+    },
+    "jQuery/1.8.0": {
+      "sha512": "laDFQRJrIRHT0Z0GVYklMt3bE0iu0MZFJwHwg21kt3SHb7Bj8TdNiM3K+ZdK1DzB8ZxKy8z7NkJvwMas+dmHBw==",
+      "type": "package",
+      "path": "jquery/1.8.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Scripts/jquery-1.8.0-vsdoc.js",
+        "Content/Scripts/jquery-1.8.0.js",
+        "Content/Scripts/jquery-1.8.0.min.js",
+        "Tools/common.ps1",
+        "Tools/install.ps1",
+        "Tools/jquery-1.8.0.intellisense.js",
+        "Tools/uninstall.ps1",
+        "jquery.1.8.0.nupkg.sha512",
+        "jquery.nuspec"
+      ]
+    },
+    "LigerShark.WebOptimizer.Core/3.0.405": {
+      "sha512": "bsEO/TVYWsUwc/dAYjpEKBP+Dax1ikyehj8P2QMKDc/iKdi5/Wjljl13ab/D2RCiU4T7E560iOo06K2rCTNHAQ==",
+      "type": "package",
+      "path": "ligershark.weboptimizer.core/3.0.405",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/LigerShark.WebOptimizer.Core.props",
+        "build/LigerShark.WebOptimizer.Core.targets",
+        "lib/netcoreapp3.0/WebOptimizer.Core.dll",
+        "lib/netcoreapp3.0/WebOptimizer.Core.xml",
+        "ligershark.weboptimizer.core.3.0.405.nupkg.sha512",
+        "ligershark.weboptimizer.core.nuspec",
         "logo.png"
       ]
     },
@@ -5732,6 +5814,19 @@
         "microsoft.identitymodel.tokens.nuspec"
       ]
     },
+    "Microsoft.jQuery.Unobtrusive.Ajax/3.2.6": {
+      "sha512": "udg7ZBszgqxloQ+ShJRONKQAzPnJIlUhKZB+AIvZdKh7CDc5Nms69T9X0hN5i+NqMmQE6njkzdCcEb16lPdJTw==",
+      "type": "package",
+      "path": "microsoft.jquery.unobtrusive.ajax/3.2.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Scripts/jquery.unobtrusive-ajax.js",
+        "Content/Scripts/jquery.unobtrusive-ajax.min.js",
+        "microsoft.jquery.unobtrusive.ajax.3.2.6.nupkg.sha512",
+        "microsoft.jquery.unobtrusive.ajax.nuspec"
+      ]
+    },
     "Microsoft.NET.StringTools/17.8.3": {
       "sha512": "y6DiuacjlIfXH3XVQG5htf+4oheinZAo7sHbITB3z7yCXQec48f9ZhGSXkr+xn1bfl73Yc3ZQEW2peJ5X68AvQ==",
       "type": "package",
@@ -6683,6 +6778,28 @@
         "lib/netstandard2.0/NuGet.Versioning.dll",
         "nuget.versioning.6.9.1.nupkg.sha512",
         "nuget.versioning.nuspec"
+      ]
+    },
+    "NUglify/1.20.7": {
+      "sha512": "yTbDciM8xsVL5ezTsJtWUlyTbVq3KBEFlYaO1E0VXwnn1KjbjEuH6oU8WzyGVLOUUg4KxWQxAdriO9piveodNw==",
+      "type": "package",
+      "path": "nuglify/1.20.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/NUglify.dll",
+        "lib/net35/NUglify.xml",
+        "lib/net40/NUglify.dll",
+        "lib/net40/NUglify.xml",
+        "lib/net5.0/NUglify.dll",
+        "lib/net5.0/NUglify.xml",
+        "lib/netstandard1.3/NUglify.dll",
+        "lib/netstandard1.3/NUglify.xml",
+        "lib/netstandard2.0/NUglify.dll",
+        "lib/netstandard2.0/NUglify.xml",
+        "nuglify.1.20.7.nupkg.sha512",
+        "nuglify.nuspec",
+        "nuglify.png"
       ]
     },
     "runtime.native.System.Data.SqlClient.sni/4.7.0": {
@@ -8309,9 +8426,11 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "EntityFramework >= 6.4.4",
+      "LigerShark.WebOptimizer.Core >= 3.0.405",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.4",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.2"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.2",
+      "Microsoft.jQuery.Unobtrusive.Ajax >= 3.2.6"
     ]
   },
   "packageFolders": {
@@ -8367,6 +8486,10 @@
             "target": "Package",
             "version": "[6.4.4, )"
           },
+          "LigerShark.WebOptimizer.Core": {
+            "target": "Package",
+            "version": "[3.0.405, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[8.0.4, )"
@@ -8380,6 +8503,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[8.0.2, )"
+          },
+          "Microsoft.jQuery.Unobtrusive.Ajax": {
+            "target": "Package",
+            "version": "[3.2.6, )"
           }
         },
         "imports": [

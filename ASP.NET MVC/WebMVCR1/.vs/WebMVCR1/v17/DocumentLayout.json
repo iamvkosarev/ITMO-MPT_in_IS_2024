@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\webmvcr1\\webmvcr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\webmvcr1\\webmvcr1\\views\\_basiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\views\\_basiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\webmvcr1\\webmvcr1\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\webmvcr1\\webmvcr1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\webmvcr1\\webmvcr1\\views\\home\\listperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\views\\home\\listperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\webmvcr1\\webmvcr1\\views\\home\\inputdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\views\\home\\inputdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\webmvcr1\\webmvcr1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\webmvcr1\\webmvcr1\\views\\home\\hello.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\views\\home\\hello.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\webmvcr1\\webmvcr1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\webmvcr1\\webmvcr1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\webmvcr1\\webmvcr1\\models\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\models\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\webmvcr1\\webmvcr1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\webmvcr1\\webmvcr1\\models\\modelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\models\\modelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|c:\\users\\iamvk\\desktop\\itmo\\master degree\\2 sem\\modern programming technologies in infocommunication systems\\tasks\\mpt_in_is_2024\\asp.net mvc\\webmvcr1\\webmvcr1\\models\\studycsharp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E756DFE-68FA-4FC0-B0E0-241A1CDDC563}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\models\\studycsharp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Program.cs",
+              "RelativeDocumentMoniker": "WebMVCR1\\Program.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Program.cs",
+              "RelativeToolTip": "WebMVCR1\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:32:34.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hello.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Views\\Home\\Hello.cshtml",
+              "RelativeDocumentMoniker": "WebMVCR1\\Views\\Home\\Hello.cshtml",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Views\\Home\\Hello.cshtml",
+              "RelativeToolTip": "WebMVCR1\\Views\\Home\\Hello.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T15:28:41.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebMVCR1\\appsettings.json",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\appsettings.json",
+              "RelativeToolTip": "WebMVCR1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T13:05:55.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListPerson.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Views\\Home\\ListPerson.cshtml",
+              "RelativeDocumentMoniker": "WebMVCR1\\Views\\Home\\ListPerson.cshtml",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Views\\Home\\ListPerson.cshtml",
+              "RelativeToolTip": "WebMVCR1\\Views\\Home\\ListPerson.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T15:36:44.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_BasicLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Views\\_BasicLayout.cshtml",
+              "RelativeDocumentMoniker": "WebMVCR1\\Views\\_BasicLayout.cshtml",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Views\\_BasicLayout.cshtml",
+              "RelativeToolTip": "WebMVCR1\\Views\\_BasicLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T15:45:12.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebMVCR1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebMVCR1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T15:49:15.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Content\\Site.css",
+              "RelativeDocumentMoniker": "WebMVCR1\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Content\\Site.css",
+              "RelativeToolTip": "WebMVCR1\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T15:50:38.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModelClass.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Models\\ModelClass.cs",
+              "RelativeDocumentMoniker": "WebMVCR1\\Models\\ModelClass.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Models\\ModelClass.cs",
+              "RelativeToolTip": "WebMVCR1\\Models\\ModelClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:11:12.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMVCR1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebMVCR1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T15:10:16.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputData.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Views\\Home\\InputData.cshtml",
+              "RelativeDocumentMoniker": "WebMVCR1\\Views\\Home\\InputData.cshtml",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Views\\Home\\InputData.cshtml",
+              "RelativeToolTip": "WebMVCR1\\Views\\Home\\InputData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T15:19:33.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Models\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "WebMVCR1\\Models\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Models\\PersonRepository.cs",
+              "RelativeToolTip": "WebMVCR1\\Models\\PersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:33:24.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "WebMVCR1\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Models\\Person.cs",
+              "RelativeToolTip": "WebMVCR1\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:14:33.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebMVCR1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebMVCR1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:30:36.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudyCsharp.cs",
+              "DocumentMoniker": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Models\\StudyCsharp.cs",
+              "RelativeDocumentMoniker": "WebMVCR1\\Models\\StudyCsharp.cs",
+              "ToolTip": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\WebMVCR1\\WebMVCR1\\Models\\StudyCsharp.cs",
+              "RelativeToolTip": "WebMVCR1\\Models\\StudyCsharp.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAA+wFgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:17:24.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

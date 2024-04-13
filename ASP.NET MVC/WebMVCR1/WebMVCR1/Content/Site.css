@@ -1,0 +1,19 @@
+﻿h1 {
+    margin: 0px;
+    padding: 2px 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+body {
+    font-family: "Trebuchet MS", Verdana, Helvetica, Sans-Serif;
+    padding: 20px;
+    border: solid medium green;
+    font-size: 15pt;
+}
+
+button[type=submit] {
+    margin-top: 15px;
+    padding: 5px;
+    width: 336px;
+}

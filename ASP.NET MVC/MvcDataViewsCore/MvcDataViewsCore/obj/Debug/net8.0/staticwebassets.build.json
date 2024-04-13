@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "tYekNEAvmer3jo8oLnI3Uiymib9N/yOfNNA6z+gFgsc=",
+  "Source": "MvcDataViewsCore",
+  "BasePath": "_content/MvcDataViewsCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MvcDataViewsCore\\wwwroot",
+      "Source": "MvcDataViewsCore",
+      "ContentRoot": "C:\\Users\\iamvk\\Desktop\\ITMO\\Master degree\\2 sem\\Modern programming technologies in infocommunication systems\\Tasks\\MPT_in_IS_2024\\ASP.NET MVC\\MvcDataViewsCore\\MvcDataViewsCore\\wwwroot\\",
+      "BasePath": "_content/MvcDataViewsCore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

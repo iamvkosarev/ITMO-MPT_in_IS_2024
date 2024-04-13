@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebMVCR1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9a521cf1e71316a60ffe7a9436a9433466f1fc8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaea77f54392f1d5cf021b595e454e5dbff09aad")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebMVCR1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebMVCR1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
